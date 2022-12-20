@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-24 20:39:39" Modified_Date="2022-12-20 15:41:16" Creator="Brent Justice" Comments="" ID="36d38d4407b9a19ab2a247e42eb62926">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2022-02-24 20:39:39" Modified_Date="2022-12-20 16:29:25" Creator="Brent Justice" Comments="" ID="0adb21c8ce645af96cabcabf699b49d9">
   <Library_General_Settings>
     <Package_File_Name>Blue_Origin_lib_BlueUtilities_OpenSource</Package_File_Name>
-    <Library_Version>1.1.0.3</Library_Version>
+    <Library_Version>1.1.1.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>Source</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -200,7 +200,7 @@
         <Synchronyze_with_Directory>false</Synchronyze_with_Directory>
         <Synchronize_Directory_Path/>
       </Synchronization_Info>
-      <GUID>A7CE120C5B26CA44F13CB26346DB04C2</GUID>
+      <GUID>03BE5F4C23D73C0B747F1001449E1371</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
